@@ -1,0 +1,72 @@
+
+
+
+.nav-wrapper {
+	height: 200em;
+}
+
+.container-fluid {
+	background-image: url(../img/uno.jpg);
+	background-size: cover;
+	width: 100%;
+	margin: 0;
+	height: 170vh;
+
+
+
+}
+.l1 {
+    background-color: salmon;
+    height: 32px;
+    margin-top: 0;
+}
+.card-panel {
+	margin-top:0px;
+	height: 10px;
+	height: 1em;
+}
+
+.light-green {
+	margin-top: -9px;
+	height: 24em;
+}
+
+.l2 {
+	background-color: salmon;
+    height: 32px;
+    margin-top: -14px;
+
+}
+.imagen2 {
+	background-image: url(../img/dos.jpg);
+	background-size: cover;
+	width: 100%;
+	margin-top: -8px;
+	height: 170vh;
+}
+
+.l3 {
+	background-color: salmon;
+    height: 32px;
+    margin-top: -14px;
+}
+.l4 {
+	background-color: salmon;
+    height: 32px;
+    margin-top: -14px;
+}
+
+
+.imagen3 {
+	background-image: url(../img/tres.jpg);
+	background-size: cover;
+	width: 100%;
+	margin-top: -8px;
+	height: 170vh;
+}
+
+.l5 {
+	background-color: salmon;
+    height: 32px;
+    margin-top: -14px;
+}
